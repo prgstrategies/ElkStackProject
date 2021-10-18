@@ -2,11 +2,11 @@
 
 The files in this repository were used to configure the network depicted below.
 
-![TODO: Update the path with the name of your diagram](https://app.diagrams.net/#G1ryqNMJ9E0sp3i7DwR_Rn9tuZz7N6hOUE)LINK to diagram or embed image) 
+Update the path with the name of your diagram](https://app.diagrams.net/#G1ryqNMJ9E0sp3i7DwR_Rn9tuZz7N6hOUE)LINK to diagram or embed image) 
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _____ file may be used to install only certain pieces of it, such as Filebeat.
 
-  - _TODO: Enter the playbook file._ Screen Shot 2021-07-29 at 8.52.50 PM
+Enter the playbook file._ Screen Shot 2021-07-29 at 8.52.50 PM
 
 This document contains the following details:
 - Description of the Topologu
@@ -22,11 +22,11 @@ This document contains the following details:
 The main purpose of this network is to expose a load-balanced and monitored instance of DVWA, the D*mn Vulnerable Web Application.
 
 Load balancing ensures that the application will be highly reliable and secure, in addition to restricting non-secure traffic/requests to the network.
-- _TODO: What aspect of security do load balancers protect? What is the advantage of a jump box?_
+-What aspect of security do load balancers protect? What is the advantage of a jump box?_
 
 Integrating an ELK server allows users to easily monitor the vulnerable VMs for changes to the _____ and system _____.
-- _TODO: What does Filebeat watch for? Filebeat collects data about the file system. In the case of this project the Filebeat allows us to search for specific information in files and visualize it using Kibana.
-- _TODO: What does Metricbeat record? Metricbeat collects machine metrics. In the case of this project Metricbeat allows us to search for specific information regarding metrics of our machines and visualize it using Kibana.
+-What does Filebeat watch for? Filebeat collects data about the file system. In the case of this project the Filebeat allows us to search for specific information in files and visualize it using Kibana.
+-What does Metricbeat record? Metricbeat collects machine metrics. In the case of this project Metricbeat allows us to search for specific information regarding metrics of our machines and visualize it using Kibana.
 
 The configuration details of each machine may be found below.
 _Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdown_tables) to add/remove values from the table_.
